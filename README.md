@@ -1,7 +1,11 @@
 # msi-xresources
 A script for coordinating your msi keyboard's LEDs with your Xresources color scheme.
 
-# Setup
+## Requirements
+
+- <a href="msi-perkeyrgb">https://github.com/Askannz/msi-perkeyrgb  </a>
+
+## Setup
 
 - Edit the keycolors script and add your MSI keyboard model in the variable MSI_KEYBOARD_MODEL="..."
   Example: MSI_KEYBOARD_MODEL="ge73"
@@ -12,7 +16,7 @@ A script for coordinating your msi keyboard's LEDs with your Xresources color sc
   chmod +x keycolors 
   ```
 
-# Usage
+## Usage
 
 Enter in your terminal:
 ```
