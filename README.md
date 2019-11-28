@@ -3,7 +3,7 @@ A script for coordinating your msi keyboard's LEDs with your Xresources color sc
 
 ## Requirements
 
-- <a href="msi-perkeyrgb">https://github.com/Askannz/msi-perkeyrgb  </a>
+- <a href="https://github.com/Askannz/msi-perkeyrgb">msi-perkeyrgb</a>
 
 ## Setup
 
