@@ -31,8 +31,8 @@ sh keycolors
 
 ### Using keycolors with pywal
 
-'''
+```
 wal -i PATH/TO/WALLPAPER -o /PATH/TO/keycolors
-'''
+```
 
 See: <a href="https://github.com/dylanaraps/pywal">pywal</a>
