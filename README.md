@@ -15,3 +15,7 @@ Enter in your terminal:
 ```
 ./keycolors
 ```
+or
+```
+sh keycolors
+```
