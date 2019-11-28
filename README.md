@@ -11,4 +11,7 @@ A script for coordinating your msi keyboard's LEDs with your Xresources color sc
 
 # Usage
 
-Enter: "./keycolors" in your terminal
+Enter in your terminal:
+```
+./keycolors
+```
