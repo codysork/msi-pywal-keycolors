@@ -1,5 +1,5 @@
 # msi-xresources
-A script for coordinating your msi keyboard's LEDs with your Xresources color scheme.
+A script for coordinating your MSI keyboard's LEDs with your Xresources color scheme.
 
 ## Requirements
 
