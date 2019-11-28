@@ -8,9 +8,9 @@ A script for coordinating your msi keyboard's LEDs with your Xresources color sc
 - Edit the X_RESOURCES_COLOR variable and choose which color from your Xresource file you will be loading to your keyboard
   Example: X_RESOURCES_COLOR_NUM=8
 - Run in your terminal:
-```
-chmox +x keycolors
-```
+  ```
+  chmod +x keycolors 
+  ```
 
 # Usage
 
