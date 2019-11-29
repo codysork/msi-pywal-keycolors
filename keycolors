@@ -31,5 +31,6 @@ X_RESOURCES_COLOR_NUM=
 COLOR_HEX=$(
     xrdb -query | 
     grep "^[^.]color$[X_RESOURCES_COLOR_NUM][^0-9].*$" | 
-    sed '$s/.*#//g' | tr '[:upper:]' '[:lower:]')
+    sed '$s/.*#//g' | 
+    tr '[:upper:]' '[:lower:]')
 sudo msi-perkeyrgb -m $MSI_MODEL -s $COLOR_HEX 
