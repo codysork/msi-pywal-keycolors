@@ -29,7 +29,7 @@ or
 sh keycolors
 ```
 
-### Using keycolors with pywal
+### Using with pywal
 
 ```
 wal -i PATH/TO/WALLPAPER -o /PATH/TO/keycolors
