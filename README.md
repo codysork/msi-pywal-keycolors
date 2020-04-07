@@ -3,7 +3,7 @@ A script for coordinating your MSI keyboard's LEDs with your pywal color scheme.
 
 ## Requirements
 
-- [Pywal](https://github.com/dylanaraps/pywal)
+- [pywal](https://github.com/dylanaraps/pywal)
 - [msi-perkeyrgb](https://github.com/Askannz/msi-perkeyrgb")
 
 ## Setup
